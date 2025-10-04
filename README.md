@@ -95,5 +95,5 @@ Contributions are welcome! To contribute:
 ---
 
 ## Contact
-- **GitHub:** [TensoRag](https://github.com/TensoRag)
+- **GitHub:** [DCode-v05](https://github.com/DCode-v05)
 - **Email:** denistanb05@gmail.com
