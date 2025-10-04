@@ -40,7 +40,7 @@ This project presents an in-depth Exploratory Data Analysis (EDA) of the **Super
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/TensoRag/Supermarket-Sales.git
+   git clone https://github.com/DCode-v05/Supermarket-Sales.git
    cd Supermarket-Sales
    ```
 2. **Install dependencies:**
